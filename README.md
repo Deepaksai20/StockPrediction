@@ -8,10 +8,14 @@ This is a simple web application built with Streamlit that allows users to forec
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
+Link: https://stockprediction-2akokgy8jjtxxxj8pt5hp7.streamlit.app/
+Screenshots:
+![Screenshot 2023-09-05 165809](https://github.com/Deepaksai20/StockPrediction/assets/124021911/9af2753d-15be-48fd-a097-85ff2681f26b)
+![Screenshot 2023-09-05 165825](https://github.com/Deepaksai20/StockPrediction/assets/124021911/a7e071a3-e964-4d9e-99b5-d067fffe05e7)
+![Screenshot 2023-09-05 165844](https://github.com/Deepaksai20/StockPrediction/assets/124021911/e9303a85-7a33-47ef-9423-c68d740b2e4b)
+![Screenshot 2023-09-05 165901](https://github.com/Deepaksai20/StockPrediction/assets/124021911/e1742451-65af-45f4-8170-e41de4223b6c)
 
 
 ## Getting Started
